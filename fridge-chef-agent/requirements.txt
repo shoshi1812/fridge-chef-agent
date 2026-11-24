@@ -1,7 +1,0 @@
-langgraph>=1.0
-langchain-core>=1.0
-langchain-google-genai>=4.0
-langsmith>=0.4
-streamlit>=1.40
-python-dotenv>=1.0
-pytest>=8.0
